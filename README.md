@@ -23,7 +23,7 @@ namespace Hi3Helper.Data
         private string ChannelName = "OSRELWin";
         private string Version { get; set; }
 
-        private GenshinGateway Gateway;
+        private Honkai Impact Gateway;
         private QueryProperty returnValProp;
         private CancellationToken cancelToken;
 
