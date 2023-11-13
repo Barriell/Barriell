@@ -5,7 +5,7 @@
 Barriell/bug README.md` (this file) appears on your GitHub at your changes.
 --->
 sing Hi3Helper.EncTool.Parser.AssetIndex;
-using Hi3Helper.EncTool.Proto.Genshin;
+using Hi3Helper.EncTool.Proto.Honkai Impact;
 using Hi3Helper.Shared.ClassStruct;
 using System;
 using System.Collections.Generic;
